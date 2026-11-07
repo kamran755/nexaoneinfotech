@@ -8,7 +8,7 @@ const CONFIG = {
   WEB3FORMS_URL: "https://api.web3forms.com/submit",
   WEB3FORMS_KEY: "787cd000-7a8e-4e71-aa35-a4e3402d9f70",
   // WhatsApp uses the first phone number from your supplied files. Change if you use another number.
-  WHATSAPP: "919560706880"
+  WHATSAPP: "+919103538801"
   // Social media links are plain HTML in index.html (header, contact section and footer).
 };
 
