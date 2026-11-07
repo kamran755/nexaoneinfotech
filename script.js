@@ -211,7 +211,7 @@ const DEMO = [
  [/sap|b1|business one|module/, "SAP Business One covers Administration, Financials, Sales and CRM, Purchasing, Business Partners, Inventory, Production, MRP, Banking, Service and Reporting. The SAP Business One section on this page shows each module and common workflows like Procure-to-Pay and Order-to-Cash."],
  [/hana|sql|query|crystal|report/, "We write SQL and HANA queries, build Query Manager queries and Crystal Reports layouts, and create dashboards for SAP B1 data."],
  [/chatbot|ai|automat/, "We build chatbots and automation that answer FAQs, guide users to reports, qualify leads and capture support requests."],
- [/contact|phone|call|email|whatsapp|reach/, "Email nexaoneinfotechsolutions@gmail.com or call 9560706880, 7464883038, 9942656503 or 8920966601. You can also use the contact form or the WhatsApp button."],
+ [/contact|phone|call|email|whatsapp|reach/, "Email support@nexaonesolutions.in or call +919103538801, . You can also use the contact form or the WhatsApp button."],
  [/price|cost|quote/, "Pricing depends on scope. Send us your requirement through the contact form and we will respond."],
 ];
 function demoReply(q) { q = q.toLowerCase(); const m = DEMO.find(d => d[0].test(q)); return m ? m[1] : "I can't answer that here. Try asking about our services, SAP B1 modules, AI chatbots or how to contact us, or use the contact form."; }
